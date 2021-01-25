@@ -42,3 +42,5 @@ Follow the instructions in Navigation.ipynb to get started with training your ow
 
 Complementary, you can download and run Navigation.py in your ouwn machine!
 
+*DNN_Banana_weights.pth* are the weights of a trined agent
+
