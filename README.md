@@ -7,7 +7,7 @@ Introduction
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.
 
 Trained Agent
-![alt-text](link)
+![alt-text](https://github.com/imasmitja/DeepReinforcementLearning-Udacity-Project1/blob/main/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif)
 
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
